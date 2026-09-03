@@ -1,0 +1,35 @@
+mode = "light"
+
+# Counting-cube playground: One red through Five cyan.
+accent = "#23B0DB"
+selection = "#D6F3FF"
+muted = "#A89B8C"
+
+background = "#FFF6EA"
+dark_background = "#F3E6D4"
+darker_background = "#E8D5BE"
+lighter_background = "#FFFBF4"
+
+foreground = "#2B2438"
+dark_foreground = "#9A8B7C"
+light_foreground = "#4A3F55"
+bright_foreground = "#1A1424"
+
+red = "#DE151D"
+yellow = "#E6C40C"
+orange = "#E89223"
+green = "#38B500"
+cyan = "#23B0DB"
+blue = "#3D6ED8"
+magenta = "#E04AA8"
+brown = "#C45C28"
+
+bright_red = "#FF5A5A"
+bright_yellow = "#FFD93D"
+bright_green = "#6FDE3A"
+bright_cyan = "#5FD4F0"
+bright_blue = "#6B93F0"
+bright_magenta = "#FF7EC8"
+
+hyprland_active_border = "rgba(de151dee) rgba(23b0dbee) 45deg"
+hyprland_inactive_border = "rgba(e8d5beaa)"

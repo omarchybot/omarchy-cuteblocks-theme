@@ -1,6 +1,6 @@
 mode = "light"
 
-# Counting-cube playground: One red through Five cyan.
+# Counting-cube playground: red, orange, yellow, green, cyan.
 accent = "#23B0DB"
 selection = "#D6F3FF"
 muted = "#A89B8C"

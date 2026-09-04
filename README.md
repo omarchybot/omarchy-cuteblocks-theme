@@ -10,15 +10,11 @@ After install the theme menu name is **Cuteblocks**.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<you>/omarchy-cuteblocks-theme.git
-```
-
-Until this repo is on GitHub, copy it by hand:
-
-```bash
-cp -r . ~/.config/omarchy/themes/cuteblocks
+omarchy theme install https://github.com/Daniluvatar/omarchy-cuteblocks-theme.git
 omarchy theme set Cuteblocks
 ```
+
+Cycle wallpapers with Super+Ctrl+Space or `omarchy theme bg next`.
 
 ## Screensaver (optional, not applied by theme install)
 
@@ -31,8 +27,8 @@ omarchy hook install theme-set hooks/screensaver-by-theme
 omarchy-launch-screensaver force
 ```
 
-The hook copies `screensaver-<slug>.txt` on `omarchy theme set`. Slug after
-git-install is `cuteblocks`.
+The hook copies `screensaver-cuteblocks.txt` into `screensaver.txt` when you
+run `omarchy theme set Cuteblocks`.
 
 ## License
 
